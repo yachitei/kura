@@ -1,6 +1,4 @@
-# Copyright (c) 2025 YACHI / KURA Contributors
-
-## Attribution-ShareAlike 4.0 International
+# Attribution-ShareAlike 4.0 International
 
 // SPDX-License-Identifier: CC-BY-SA-4.0
 
